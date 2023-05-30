@@ -31,20 +31,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-.testimonials {
-  background: url('../img/fon4.jpg');
-  color: #fff;
-}
-.testimonials btn {
-  background-color: #009786;
-}
-
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  /* background: url('../img/fon4.jpg') center top; */
-  /* color: cornsilk;  */
-
 }
 
 a {
@@ -72,14 +61,13 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
-  /* background:url("../img/fon4.jpg"); */
 }
 
 .sections-bg {
   /* background-color: #00796be4; */
   /* background-image: url('assets/img/header.jpg'); */
   /* background-image: url("../img/header.jpg") center left; */
-  background:url("../img/fon4.jpg");
+  background:url("../img/fon3.jpg");
 }
 
 .section-header {
@@ -631,11 +619,6 @@ section {
 /*--------------------------------------------------------------
 # About Us Section
 --------------------------------------------------------------*/
-/* .about { */
-  /* background: url('../img/fon4.jpg'); */
-  /* padding-top: 190px; */
-/* } */
-
 .about h3 {
   font-weight: 700;
   font-size: 28px;
@@ -806,7 +789,6 @@ section {
 .clients .swiper-pagination {
   margin-top: 20px;
   position: relative;
-  background-color: #d5d5d5;
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet {
@@ -1065,10 +1047,6 @@ section {
 /*--------------------------------------------------------------
 # Testimonials Section
 --------------------------------------------------------------*/
-/* .testimonials {
- 
-} */
-
 .testimonials .testimonial-wrap {
   padding-left: 10px;
 }
@@ -1140,7 +1118,6 @@ section {
 .testimonials .swiper-pagination {
   margin-top: 20px;
   position: relative;
-  background-color: #ffffff;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet {
@@ -1643,9 +1620,6 @@ section {
 /*--------------------------------------------------------------
 # Frequently Asked Questions Section
 --------------------------------------------------------------*/
-.faq {
-  background-image:url('../img/fon5.jpg');
-}
 .faq .content h3 {
   font-weight: 400;
   font-size: 34px;
@@ -1688,7 +1662,6 @@ section {
   background: #fff;
   box-shadow: none;
   border-radius: 10px;
-
 }
 
 .faq .accordion-button .num {
@@ -1696,7 +1669,6 @@ section {
   font-size: 20px;
   line-height: 0;
   color: var(--color-primary);
-
 }
 
 .faq .accordion-button:not(.collapsed) {
@@ -1709,7 +1681,6 @@ section {
   position: absolute;
   right: 20px;
   top: 20px;
-  
 }
 
 .faq .accordion-body {
@@ -1780,12 +1751,6 @@ section {
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
-
-.contact {
-  background: url('../img/fon4.jpg') center center;
-  color: #d2eeeb;
-}
-
 .contact .info-container {
   background-color: var(--color-primary);
   height: 100%;
