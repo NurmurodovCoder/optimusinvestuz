@@ -42,8 +42,6 @@
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  /* background: url('../img/fon4.jpg') center top; */
-  /* color: cornsilk;  */
 
 }
 
@@ -76,9 +74,6 @@ section {
 }
 
 .sections-bg {
-  /* background-color: #00796be4; */
-  /* background-image: url('assets/img/header.jpg'); */
-  /* background-image: url("../img/header.jpg") center left; */
   background:url("./assets/img/fon4.jpeg");
 }
 
@@ -631,10 +626,6 @@ section {
 /*--------------------------------------------------------------
 # About Us Section
 --------------------------------------------------------------*/
-/* .about { */
-  /* background: url('../img/fon4.jpg'); */
-  /* padding-top: 190px; */
-/* } */
 
 .about h3 {
   font-weight: 700;
