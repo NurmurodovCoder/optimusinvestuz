@@ -32,7 +32,7 @@
 # General
 --------------------------------------------------------------*/
 .testimonials {
-  background: url('/assets/img/fon4.jpeg');
+  background: url('./assets/img/fon4.jpeg');
   color: #fff;
 }
 .testimonials btn {
