@@ -2042,7 +2042,7 @@ section {
     left: 0;
     right: 0;
     height: calc(50% + 20px);
-    background-color: #fff;
+    background: url('../img/fon4.jpg');
   }
 }
 
@@ -2058,6 +2058,7 @@ section {
   height: 100%;
   width: 100%;
   text-align: center;
+  
 }
 
 .hero .icon-box .title {
@@ -2082,7 +2083,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #009786;
+  background: #0d9787b6;
 }
 
 .hero .icon-box:hover .title a,
