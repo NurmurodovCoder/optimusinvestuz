@@ -32,7 +32,7 @@
 # General
 --------------------------------------------------------------*/
 .testimonials {
-  background: url('./assets/img/fon4.jpeg');
+  /* background: url('./assets/img/fon4.jpeg'); */
   color: #fff;
 }
 .testimonials btn {
@@ -72,15 +72,15 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
-  background:url("/assets/img/fon4.jpeg");
+  /* background:url("./assets/img/fon4.jpeg"); */
 }
 
-.sections-bg {
-  /* background-color: #00796be4; */
-  /* background-image: url('assets/img/header.jpg'); */
-  /* background-image: url("../img/header.jpg") center left; */
-  background:url("/assets/img/fon4.jpeg");
-}
+/* .sections-bg {
+  background-color: #00796be4;
+  background-image: url('assets/img/header.jpg');
+  background-image: url("../img/header.jpg") center left;
+  background:url("./assets/img/fon4.jpeg");
+} */
 
 .section-header {
   text-align: center;
@@ -1643,9 +1643,9 @@ section {
 /*--------------------------------------------------------------
 # Frequently Asked Questions Section
 --------------------------------------------------------------*/
-.faq {
-  background-image:url('/assets/img/fon4.jpeg');
-}
+/* .faq {
+  background-image:url('./assets/img/fon4.jpeg');
+} */
 .faq .content h3 {
   font-weight: 400;
   font-size: 34px;
@@ -1782,7 +1782,7 @@ section {
 --------------------------------------------------------------*/
 
 .contact {
-  background: url('/assets/img/fon4.jpeg') center center;
+  /* background: url('./assets/img/fon4.jpeg') center center; */
   color: #d2eeeb;
 }
 
@@ -2042,7 +2042,7 @@ section {
     left: 0;
     right: 0;
     height: calc(50% + 20px);
-    background: url('assets/img/fon4.jpeg');
+    /* background: url('./assets/img/fon4.jpeg'); */
   }
 }
 
